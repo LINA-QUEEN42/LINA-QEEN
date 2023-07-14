@@ -21,7 +21,7 @@ except ImportError:
 
 import os
 import sys
-import time
+import timec
 import requests
 import random
 import platform
